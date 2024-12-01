@@ -1,9 +1,9 @@
-# 🤖 OctoPi-UpToDate
+# 🤖 OctoPi-PolarBambu
 
-*The latest OctoPi release with the latest OctoPrint already included*
+*The latest OctoPi release with the latest OctoPrint and the latest PolarCloud and BambuPrinter plugins already included*
 
 This repository automatically updates the OctoPrint installation, kernel and bootloader on the latest OctoPi image
-and provides the resulting image ready to flash. Checkout the [releases](https://github.com/OctoPrint/OctoPi-UpToDate/releases).
+and provides the resulting image ready to flash. Checkout the [releases](https://github.com/markwal/OctoPi-PolarBambu/releases).
 
 ## How does this work?
 
